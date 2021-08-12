@@ -1,5 +1,5 @@
 - 👋 Hola, soy  @desdetuteclado
-- 👀 Tengo interes en Docker , linux , domotica , electronica
+- 👀 Tengo interes en Docker , Raspberry pi , linux , domotica , electronica
 
 <!---
 desdetuteclado/desdetuteclado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
