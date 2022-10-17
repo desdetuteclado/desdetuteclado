@@ -1,1 +1,8 @@
-alfa beta gama sd
+<div class="template-container container content ">
+
+
+
+
+
+
+</div>
